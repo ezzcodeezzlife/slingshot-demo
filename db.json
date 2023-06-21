@@ -1,0 +1,88 @@
+{
+    "teams": [
+      {
+        "Name": "Team Alpha",
+        "Product": "SkyNova",
+        "Progress": 70,
+        "Level": 3,
+        "Status": "on track",
+        "Tech": "GPT-3",
+        "Location": {
+          "lat": 51.5074,
+          "lon": -0.1278
+        }
+      },
+      {
+        "Name": "Team Beta",
+        "Product": "OceanBreeze",
+        "Progress": 50,
+        "Level": 2,
+        "Status": "close to deadline",
+        "Tech": "Cohere",
+        "location": {
+          "lat": 37.7749,
+          "lon": -122.4194
+        }
+      },
+      {
+        "Name": "Team Gamma",
+        "Product": "TerraForge",
+        "Progress": 30,
+        "Level": 1,
+        "Status": "behind",
+        "Tech": "OpenAI",
+        "location": {
+          "lat": 52.5200,
+          "lon": 13.4050
+        }
+      },
+      {
+        "Name": "Team Delta",
+        "Product": "AstroBeam",
+        "Progress": 40,
+        "Level": 2,
+        "Status": "behind",
+        "Tech": "EleutherAI",
+        "location": {
+          "lat": 40.7128,
+          "lon": -74.0060
+        }
+      },
+      {
+        "Name": "Team Epsilon",
+        "Product": "BioSculpt",
+        "Progress": 80,
+        "Level": 3,
+        "Status": "on track",
+        "Tech": "AI21 Labs",
+        "location": {
+          "lat": 34.0522,
+          "lon": -118.2437
+        }
+      },
+      {
+        "Name": "Team Zeta",
+        "Product": "QuantumDive",
+        "Progress": 60,
+        "Level": 2,
+        "Status": "on track",
+        "Tech": "DeepMind",
+        "location": {
+          "lat": 42.3601,
+          "lon": -71.0589
+        }
+      },
+      {
+        "Name": "Team Eta",
+        "Product": "LunarTide",
+        "Progress": 55,
+        "Level": 2,
+        "Status": "close to deadline",
+        "Tech": "Microsoft AI",
+        "location": {
+          "lat": 47.6062,
+          "lon": -122.3321
+        }
+      }
+    ]
+}
